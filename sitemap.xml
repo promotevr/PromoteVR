@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://PromoteVR.com/index.html</loc>
+    <lastmod>2018-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/download-crop-u5470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/aaeaaqaaaaaaaavaaaaajgrhzdnhnzdilwm1m2qtngrimi1hytjlltlkzddmzmi1otqyzg-crop-u2674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/amit2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/aaeaaqaaaaaaaalwaaaajdy5zjq3ogu4ltfjzmqtnde2ms1izty4ltu2zjbjztgymje3mg-crop-u2690.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/amit2-crop-u5325.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://PromoteVR.com/images/screenshot%20(9)-crop-u5972.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://PromoteVR.com/about-us.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://PromoteVR.com/assets/vid-20180520-wa0005.mp4</loc>
+    <lastmod>2018-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
